@@ -1,0 +1,12 @@
+C:\Users\tauro\Desktop\EjercicioDeExamen\EjercicioDeExamen\bin\Debug\EjercicioDeExamen.exe
+C:\Users\tauro\Desktop\EjercicioDeExamen\EjercicioDeExamen\bin\Debug\EjercicioDeExamen.pdb
+C:\Users\tauro\Desktop\EjercicioDeExamen\EjercicioDeExamen\obj\Debug\EjercicioDeExamen.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\EjercicioDeExamen\EjercicioDeExamen\obj\Debug\EjercicioDeExamen.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\EjercicioDeExamen\EjercicioDeExamen\obj\Debug\EjercicioDeExamen.exe
+C:\Users\tauro\Desktop\EjercicioDeExamen\EjercicioDeExamen\obj\Debug\EjercicioDeExamen.pdb
+C:\Users\tauro\Desktop\64-CreacionDeCochesYEncendido\EjercicioDeExamen\bin\Debug\EjercicioDeExamen.exe
+C:\Users\tauro\Desktop\64-CreacionDeCochesYEncendido\EjercicioDeExamen\bin\Debug\EjercicioDeExamen.pdb
+C:\Users\tauro\Desktop\64-CreacionDeCochesYEncendido\EjercicioDeExamen\obj\Debug\EjercicioDeExamen.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\64-CreacionDeCochesYEncendido\EjercicioDeExamen\obj\Debug\EjercicioDeExamen.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\64-CreacionDeCochesYEncendido\EjercicioDeExamen\obj\Debug\EjercicioDeExamen.exe
+C:\Users\tauro\Desktop\64-CreacionDeCochesYEncendido\EjercicioDeExamen\obj\Debug\EjercicioDeExamen.pdb
